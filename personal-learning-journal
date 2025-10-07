@@ -1,1 +1,18 @@
+Cloud computing is the delivery of computing services over the internet ("cloud"). This service includes 
+  1. Storage(saving file)
+  2. Processing power(Running software, websites, Or AI models)
+  3. Networking
+  4. Software application
 
+Key Features
+  - On-demand:- Use resources when you need them.
+  - Scalable:- Easily up|down based on demand
+  - Pay-as-you-go:- Pay only for what you use
+  - Accessible Anywhere:- requires only an internet connection.
+
+☁️ Types  of Cloud Services
+1. IaaS:- (Infrastructure as a Service)- renting a virtual server, 
+   e.g, hosting a website on AWS(EC2/S3), hosting ERPs, CRMs, or internal company apps,
+2. SaaS: (Software as a Service) - software service delivered to the user via app/web
+   e.g, Netflix, Google Drive, Google Workspace, Microsoft 365
+3. PaaS:- (Platform as a Service)- tools to build and host applications
